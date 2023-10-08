@@ -538,3 +538,13 @@ h6,
 .copyright a:hover {
     color: var(--primary);
 }
+
+
+@media (width < 500px){
+    .headerCarousel{
+        margin-top: 100px;
+    }
+    /* .header_heading{
+        font-size: 40px;
+    } */
+}
